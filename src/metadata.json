@@ -1,0 +1,9 @@
+{
+  "description": "A shortcut to access to 'Display' settings in the gnome control center.",
+  "name": "Display Settings",
+  "shell-version": [
+    "43"
+  ], 
+  "url": "https://github.com/tvataire/gnome-display-settings-quick-access",
+  "uuid": "display-settings@tvataire"
+}
