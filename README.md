@@ -9,7 +9,7 @@ Restart gnome-shell by pressing `<Alt>+<F2>`, then type `r` and press `Return`.
 
 Enable the extension : 
 ```shell
-gnome-extensions enable display-settings@tvataire
+gnome-extensions enable display-settings@shaw
 ```
 ## License
 Copyright &copy; 2024 Thibault Vataire
